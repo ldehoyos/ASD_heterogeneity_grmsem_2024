@@ -4,7 +4,6 @@
 ## Date: September 2023
 ## Author: Lucia de Hoyos, Fenja Schlag, Ellen Verhoef, Beate St Pourcain
 ## Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands
-## Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands
 ##################################################-
 ## de Hoyos et al. Structural models of genome-wide covariance identify multiple common dimensions in autism
 
